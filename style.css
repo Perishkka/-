@@ -1,0 +1,14 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+   
+}
+
+.img-anim{
+    opacity: 1;
+}
+
+.img-anim:hover{
+    opacity:0.8;
+}    
+
